@@ -1,0 +1,1 @@
+This simple algorithm gives an example of location tracking in indoor environment using WiFi signals strengths sent to a local sever machine which then determines the clients location.
